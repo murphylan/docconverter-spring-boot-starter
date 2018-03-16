@@ -30,7 +30,7 @@ http://localhost:8080/
 ```
 http://你的机器ip:8080/
 ```
-4. image已经上传到 Docker hub中了，你也也可直接执行命令：
+4. image已经上传到 Docker hub中了，你也可直接执行命令：
 ```Shell
 docker pull murphylan/docconvert
 ```
