@@ -2,6 +2,8 @@
 
 这个WebApp的目的是展示文档转换的Demo，帮助用户了解我们的服务。
 
+<img width="600" height="300" src="https://github.com/murphylan/docconverter-spring-boot-starter/blob/master/docconvert.png">
+
 ### 运行这个Demo有2个方式
 
 #### 方式1, 手工部署
@@ -30,4 +32,4 @@ http://你的机器ip:8080/
 ```
 
 
-感谢关注我们的产品!![Docconverter service](https://docedit.cn)
+感谢关注我们的产品!! 更多内容见：[Docconverter service](https://docedit.cn)
