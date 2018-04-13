@@ -35,4 +35,4 @@ http://你的机器ip:8080/
 docker pull murphylan/docconvert
 ```
 
-感谢关注我们的产品!! 更多内容见：[Docconverter service](http://39.108.124.141/)
+感谢关注我们的产品!! 更多内容见：[Docconverter service](http://docedit.cn/)
